@@ -235,6 +235,36 @@ ul.cat.list-inline li a:hover{
 	padding: 10% 0;
 }
 
+#ks-minecraft{
+	background: url(../img/07.jpg);
+	background-size: cover;
+	background-position: center;
+	background-attachment: scroll;
+	background-repeat: no-repeat;
+	color: #222222;
+}
+
+#ks-minecraft .overlay{
+	height: auto;
+	background-attachment: fixed;
+	padding: 10% 0;
+}
+
+#ks-contact{
+	background: url(../img/10.jpg);
+	background-size: cover;
+	background-position: center;
+	background-attachment: scroll;
+	background-repeat: no-repeat;
+	color: #222222;
+}
+
+#ks-contact .overlay{
+	height: auto;
+	background-attachment: fixed;
+	padding: 10% 0;
+}
+
 #ks-animation{
 	background: url(../img/10.jpg);
 	background-size: cover;
